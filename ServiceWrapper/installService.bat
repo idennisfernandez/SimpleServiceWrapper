@@ -1,0 +1,1 @@
+sc create  "servicewrapper" binPath="%~dp0ServiceWrapper.exe" DisplayName="Simple Service wrapper" start="auto"
